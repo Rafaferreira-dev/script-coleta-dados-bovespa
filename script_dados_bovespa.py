@@ -2,7 +2,7 @@
 Script para coleta de dados do índice Bovespa (^BVSP) usando a biblioteca yfinance.
 Salva os dados em um arquivo CSV e gera um log de execução.
 
-Autor: Seu Nome
+Autor: Rafael Ferreira 
 Data: 2024-05-20
 """
 
